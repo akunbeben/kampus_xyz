@@ -1,4 +1,4 @@
-# kampus_xyz
+# Bahan SKKNI KOMINFO
 SKKNI - KOMINFO
 
 Bahan untuk Sertifikasi Kominfo / SKKNI 
